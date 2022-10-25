@@ -1,6 +1,2 @@
-#siema
-##siema
-###siema
-####siema
-#####siema
-######siema
+# k0aziu
+#### passionate about programming and ethical hacking
