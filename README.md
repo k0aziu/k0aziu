@@ -1,2 +1,2 @@
 # k0aziu
-#### passionate about programming and ethical hacking
+#### Passionate about programming 💻 and ethical hacking 💀!
