@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=🌪️koaziu🌪️&width=1000&height=200)](https://github.com/koziuu/koziuu/blob/main/README.md)
 
-# 👤 About Me
+# ☠️ About Me
 
 Hi, my nick is koziu and I am a passionate programmer, ethical hacker, and computer enthusiast. I love learning about new technologies and finding creative ways to solve problems.
 
