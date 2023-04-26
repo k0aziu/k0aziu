@@ -5,5 +5,5 @@
 [cool][czesc]
 
 ![facebook](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=Facebook&logoColor=white)
-![hackthebox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=HackTheBox&logoColor=white)
+![hackthebox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=HackTheBox&logoColor=9FEF00)
 ![facebook](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=GitHub&logoColor=white)
