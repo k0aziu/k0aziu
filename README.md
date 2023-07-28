@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=🌪️koziuu🌪️&width=1000&height=200)](https://github.com/koziuu/koziuu/blob/main/README.md)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=🌪️koaziu🌪️&width=1000&height=200)](https://github.com/koziuu/koziuu/blob/main/README.md)
 
 ![Facebook](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=Facebook&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=HackTheBox&logoColor=9FEF00)
