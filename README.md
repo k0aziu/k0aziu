@@ -7,3 +7,5 @@ Amateur Programmer 🌟
 - JavaScript 📜
 - Python 🐍
 - Node.js 🚀
+
+![i hate java](https://media.tenor.com/fMUOPRVdSzUAAAAd/python.gif)
