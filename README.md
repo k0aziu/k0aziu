@@ -7,6 +7,7 @@ Amateur Programmer 🌟
 - JavaScript 📜
 - Python 🐍
 - Node.js 🚀
+- Dart 🎯
 
 i hate java
 
