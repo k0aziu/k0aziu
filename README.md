@@ -8,5 +8,6 @@ Amateur Programmer 🌟
 - Python 🐍
 - Node.js 🚀
 
-![](https://media.tenor.com/fMUOPRVdSzUAAAAd/python.gif)
+i hate java
 
+![](https://media.tenor.com/fMUOPRVdSzUAAAAd/python.gif)
