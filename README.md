@@ -8,4 +8,5 @@ Amateur Programmer 🌟
 - Python 🐍
 - Node.js 🚀
 
-![SVG Banners]((https://media.tenor.com/fMUOPRVdSzUAAAAd/python.gif)
+![](https://media.tenor.com/fMUOPRVdSzUAAAAd/python.gif)
+
