@@ -7,8 +7,8 @@ Amateur Programmer 🌟
 - JavaScript 📜
 - Python 🐍
 - Node.js 🚀
-- Dart 🎯
+- Dart 🎯 - in progress
 
-i hate java
+i hate java bruh
 
 ![](https://media.tenor.com/fMUOPRVdSzUAAAAd/python.gif)
