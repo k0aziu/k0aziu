@@ -8,6 +8,7 @@ Amateur Programmer 🌟
 - Python 🐍
 - Node.js 🚀
 - Dart 🎯 - in progress 🎉
+- Cypress 🎯 - in progress 🎉
 
 i hate java bruh
 
