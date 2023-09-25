@@ -7,6 +7,7 @@ Amateur Programmer 🌟
 - JavaScript 📜
 - Python 🐍
 - Node.js 🚀
+- Vue 🖖
 - Dart 🎯 - in progress 🎉
 - Cypress 🎯 - in progress 🎉
 
