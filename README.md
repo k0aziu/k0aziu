@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=🌪️koziuu🌪️&width=1000&height=200)](https://youtu.be/dQw4w9WgXcQ?si=msFZ1RI-r2W-Xgz-)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=🌪️k0aziu🌪️&width=1000&height=200)](https://youtu.be/dQw4w9WgXcQ?si=msFZ1RI-r2W-Xgz-)
 
 ## About Me 🧑🏻‍💻
 Amateur Programmer 🌟
