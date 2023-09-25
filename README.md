@@ -10,7 +10,3 @@ Amateur Programmer 🌟
 - Vue 🖖
 - Dart 🎯 - in progress 🎉
 - Cypress 🎯 - in progress 🎉
-
-i hate java bruh
-
-![](https://media.tenor.com/fMUOPRVdSzUAAAAd/python.gif)
