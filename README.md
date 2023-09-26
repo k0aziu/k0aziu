@@ -1,12 +1,13 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=🌪️k0aziu🌪️&width=1000&height=200)](https://youtu.be/dQw4w9WgXcQ?si=msFZ1RI-r2W-Xgz-)
 
-## About Me 🧑🏻‍💻
+## About Me 🚀
 Amateur Programmer 🌟
 
 ## Technologies and Programming Languages 💻
 - JavaScript 📜
 - Python 🐍
-- Node.js 🚀
+- Node.js 🍔
 - Vue 🖖
 - Dart 🎯 - in progress 🎉
-- Cypress 🎯 - in progress 🎉
+- Cypress 🔥 - in progress 🎉
+- Figma 💥 - in progress 🎉
