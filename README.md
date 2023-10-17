@@ -6,8 +6,10 @@ Amateur Programmer 🌟
 ## Technologies and Programming Languages 💻
 - JavaScript 📜
 - Python 🐍
+- Bash 🐚
 - Node.js 🍔
 - Vue 🖖
+- Native Vue 🖖 - in progress 🎉
 - Dart 🎯 - in progress 🎉
 - Cypress 🔥 - in progress 🎉
 - Figma 💥 - in progress 🎉
