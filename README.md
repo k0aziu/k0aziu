@@ -13,3 +13,4 @@ Amateur Programmer 🌟
 - Dart 🎯 - in progress 🎉
 - Cypress 🔥 - in progress 🎉
 - Figma 💥 - in progress 🎉
+- Rust 🦀 - in progress 🎉
