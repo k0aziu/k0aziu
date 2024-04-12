@@ -1,5 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=🌪️k0aziu🌪️&width=1000&height=200)](https://youtu.be/dQw4w9WgXcQ?si=msFZ1RI-r2W-Xgz-)
-
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=køaziu&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 ## About Me 🚀
 Amateur Programmer 🌟
 
