@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=køaziu&width=800&height=50)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=køaziu&width=800&height=150)](https://github.com/Akshay090/svg-banners)
 ## About Me 🚀
 Amateur Programmer 🌟
 
