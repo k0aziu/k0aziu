@@ -13,3 +13,6 @@ Amateur Programmer 🌟
 - Cypress 🔥 - in progress 🎉
 - Figma 💥 - in progress 🎉
 - Rust 🦀 - in progress 🎉
+
+## Other projects
+- (nthw)[https://notthehiddenwiki.com/]
