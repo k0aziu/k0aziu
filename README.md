@@ -15,4 +15,4 @@ Amateur Programmer 🌟
 - Rust 🦀 - in progress 🎉
 
 ## Other projects
-- [thw](https://notthehiddenwiki.com/)
+- [Not The Hidden Wiki](https://notthehiddenwiki.com/) - Front-end written in Vue.js 3 and PrimeVue!
