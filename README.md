@@ -15,4 +15,4 @@ Amateur Programmer 🌟
 - Rust 🦀 - in progress 🎉
 
 ## Other projects
-- (nthw)[https://notthehiddenwiki.com/]
+- [thw](https://notthehiddenwiki.com/)
