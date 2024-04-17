@@ -22,4 +22,3 @@ High school student with ambitions.
 - [Not The Hidden Wiki](https://notthehiddenwiki.com/) - Front-end written in Vue.js 3 and PrimeVue!
 
 ## My future plans
-- Create a podcast about philosophy,
