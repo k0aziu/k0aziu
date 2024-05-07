@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=køaziu&width=800&height=150)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=I%20hate%20furries&width=800&height=150)](https://github.com/Akshay090/svg-banners)
 ## About Me 🚀
 Programmer...
 Philosopher...
@@ -22,3 +22,8 @@ High school student with ambitions.
 - [Not The Hidden Wiki](https://notthehiddenwiki.com/) - Front-end written in Vue.js 3 and PrimeVue!
 
 ## My future plans
+- ni ma
+
+
+
+køaziu to ja
