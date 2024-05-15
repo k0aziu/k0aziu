@@ -1,3 +1,5 @@
+am currently working at this file
+
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=I%20hate%20furries&width=800&height=150)](https://github.com/Akshay090/svg-banners)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k0aziu&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0aziu&hide_progress=true)
