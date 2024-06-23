@@ -1,5 +1,3 @@
-am currently working at this file
-
 ## About Me 🚀
 Programmer...
 Philosopher...
@@ -25,6 +23,4 @@ High school student with ambitions.
 ## My future plans
 - ni ma
 
-
-
-køaziu to ja
+memento mori
