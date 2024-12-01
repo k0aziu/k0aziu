@@ -2,7 +2,6 @@
 
 <br/>
 <br/>
-<br/>
 
 <p align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=k0aziu&show_icons=true&theme=dark#gh-dark-mode-only&hide=issues,contribs,prs" />
@@ -10,11 +9,9 @@
 <p/>
 
 <br/>
-<br/>
 
 ### <p align="center">Who am I?<p/>
 
-<br/>
 <br/>
 
 <div align="center">
@@ -28,7 +25,6 @@
 <br/>
 
 ### <p align="center">Projects I have participated in:<p/>
-
 
 <br/>
 <br/>
