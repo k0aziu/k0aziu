@@ -1,4 +1,4 @@
-# <p align="center">🌟 k0aziu 🌟</p>
+# <p align="center"> 🌟 k0aziu 🌟 </p>
 
 <br/>
 <br/>
@@ -10,7 +10,7 @@
 
 <br/>
 
-### <p align="center">Who am I?<p/>
+### <p align="center"> Who am I <p/>
 
 <br/>
 
@@ -18,13 +18,23 @@
   <p><strong>👨‍💻 Student of programming and computer science from Poland</strong></p>
   <p><strong>🔒 Cybersecurity enthusiast</strong></p>
   <p><strong>🎙️ Future podcast creator</strong></p>
-
-<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/example_folder/example.svg" />
 </div>
 
 <br/>
 
-### <p align="center">Projects I have participated in:<p/>
+### <p align="center"> My socials
+
+<br/>
+
+<div align="center">
+<a href="https://discord.com/users/725816686296432761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="50" /></a>
+<a href="https://www.instagram.com/koaziu.sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" /></a>
+<a href="https://www.linkedin.com/in/micha%C5%82-kazienko-39abb52aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" height="50" /></a>
+</div>
+
+<br/>
+
+### <p align="center"> Projects I have participated in <p/>
 
 <br/>
 <br/>
