@@ -27,9 +27,8 @@
 <br/>
 
 <div align="center">
-<a href="https://discord.com/users/725816686296432761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="50" /></a>
-<a href="https://www.instagram.com/koaziu.sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" /></a>
-<a href="https://www.linkedin.com/in/micha%C5%82-kazienko-39abb52aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" height="50" /></a>
+  <a href="https://discord.com/users/725816686296432761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="46" /></a>
+  <a href="https://www.linkedin.com/in/micha%C5%82-kazienko-39abb52aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="36" /></a>
 </div>
 
 <br/>
@@ -50,4 +49,4 @@
 <br/>
 <br/>
 
-<img align="left" src="https://Akomarev.com/ghpvc/?username=k0aziu" />
+<img align="left" src="https://komarev.com/ghpvc/?username=k0aziu" />
