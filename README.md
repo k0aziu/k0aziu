@@ -43,6 +43,7 @@
 | Project name | My contribution |
 | :-------: | :-------: |
 | [Not The Hidden Wiki](https://notthehiddenwiki.com/) | Front-end written in Vue.js 3 and PrimeVue! |
+| [NTHW Search Engine](https://notthehiddenwiki.com/search) | Soon! |
 
 </div>
 
