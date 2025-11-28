@@ -10,7 +10,7 @@
 
 <br/>
 
-### <p align="center"> Who am I <p/>
+### <p align="center"> Who I am <p/>
 
 <br/>
 
@@ -59,6 +59,6 @@
 
 
 
-"I know how you feel and how hard it is. Don't give up. As for ***, after a few years, it goes down like good whiskey." ~ Incredible person, my inspiration
+"I know how you feel and how hard it is. Don't give up. As for ***, after a few years, it goes down like good whiskey." ~ Incredible person, my inspiration.
 
 <img align="left" src="https://komarev.com/ghpvc/?username=k0aziu" />
